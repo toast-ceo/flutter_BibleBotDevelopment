@@ -13,7 +13,7 @@ Flutter로 제작된 [성서봇 애플리케이션](https://play.google.com/stor
 
 
 
-### :clipboard: Assignment
+### :clipboard: Contents
 인수인계를 위한 folder [:pushpin:](https://github.com/toast-ceo/flutter_emotion_diary/blob/progress/5.%20update_1/firstUpdate.MD)
 개발을 위한 folder [:pushpin:](https://github.com/toast-ceo/flutter_emotion_diary/blob/progress/5.%20update_1/firstUpdate.MD)
 flutter 용어 및 정리를 위한 folder [:pushpin:](https://github.com/toast-ceo/flutter_emotion_diary/blob/progress/5.%20update_1/firstUpdate.MD)
