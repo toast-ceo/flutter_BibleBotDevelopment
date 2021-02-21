@@ -24,5 +24,5 @@ flutter 용어 및 정리를 위한 folder [:pushpin:](https://github.com/toast-
  
 |Version|Contents|
 |---|---| 
-|2.1.0|[:pushpin:]()|
+|2.1.0|[:pushpin:](https://github.com/toast-ceo/flutter_BibleBotDevelopment/blob/main/update_memo/memo/2.1.0.md)|
 |2.2.0|[:pushpin:]()|
